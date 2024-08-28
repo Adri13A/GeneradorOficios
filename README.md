@@ -42,7 +42,7 @@ Esta aplicación está diseñada especificamente para agilizar la generación de
 
 ## **Licencia**
 
-**El autor mantiene todos los derechos sobre el software y nadie más puede usarlo, modificarlo o distribuirlo.**
+**El autor mantiene todos los derechos sobre el software el cual no se permite las modificaciones o distribución.**
 
 
 ## **Autores**
