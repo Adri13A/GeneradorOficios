@@ -5,7 +5,7 @@
 
 ## **Generador de Oficios**
 
-Esta aplicación de escritorio, basada en lenguaje Java, ha sido diseñada para automatizar la generación de oficios personalizados. La herramienta asigna a cada usuario un modelo de oficio específico, de acuerdo con su área de trabajo, optimizando así el proceso de creación de documentos oficiales. El administrador, a su vez, dispone de un panel de control que le permite supervisar la generación de oficios y gestionar los datos contenidos en los mismos.
+Esta aplicación de escritorio, basada en lenguaje Java, ha sido diseñada especificamente para automatizar la generación de oficios personalizados. La herramienta asigna a cada usuario un modelo de oficio específico, de acuerdo con su área de trabajo, optimizando así el proceso de creación de documentos oficiales. El administrador, a su vez, dispone de un panel de control que le permite supervisar la generación de oficios y gestionar los datos contenidos en los mismos.
 
 ## **Introducción**
 
