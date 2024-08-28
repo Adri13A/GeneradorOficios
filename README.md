@@ -32,6 +32,14 @@ Esta aplicación está diseñada especificamente para agilizar la generación de
 
 ## **Imagenes**
 
+### Ventana de usuario 👤 y administrador 🕵🏻‍♀️
+> ![GF](https://github.com/user-attachments/assets/15bab107-59ab-4247-a98f-4b75bf5a7fd6)
+
+### Ventana de solo administrador 🕵🏻‍♀️
+> ![GF2](https://github.com/user-attachments/assets/02660770-fd7e-4476-9fd2-0ddcf5558207)
+
+
+
 ## **Licencia**
 
 **El autor mantiene todos los derechos sobre el software y nadie más puede usarlo, modificarlo o distribuirlo.**
