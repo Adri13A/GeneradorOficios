@@ -31,31 +31,13 @@ Esta aplicación está diseñada especificamente para agilizar la generación de
 
 
 ## **Imagenes**
-### Inicio
-> ![webAppAsistencias](https://github.com/user-attachments/assets/c6eda8fe-dd37-4033-a6d8-36cf59284b29)
-
-### Listado de Asistencias
-> ![webAppAsistencias-Asistencias](https://github.com/user-attachments/assets/bd054869-3c03-4bdd-ad1c-07650e6f2bcd)
-
-### Usuarios
-> ![webAppAsistencias-Usuarios](https://github.com/user-attachments/assets/2601a664-9f15-4502-991c-f59d04040272)
-
-### Agregar Nuevo Usuario
-> ![webAppAsistencias-AggUsuario](https://github.com/user-attachments/assets/193a4791-c101-4bf8-9a2c-7b3d889039b5)
-
-
-### Repostes PDF
-> ![webAppAsistencias-RepostesPDF](https://github.com/user-attachments/assets/84c05360-a115-4d41-a73a-8f0ba6e489b7)
 
 ## **Licencia**
 
-webAppAsistencias is released under the MIT License.
-<br>
-
-[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+**El autor mantiene todos los derechos sobre el software y nadie más puede usarlo, modificarlo o distribuirlo.**
 
 
 ## **Autores**
 
-webAppAsistencias fue creado por **Adri13A**.
+Generador de Oficios fue creado por **Adri13A**.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
